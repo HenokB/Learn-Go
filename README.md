@@ -5,6 +5,6 @@ You can find Go Lang examples, exercises, and codes to make a Go comprehensive g
 
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 
-# Leave a 🌟 if you like the idea
+Leave a 🌟 if you like the idea
 # Author
 > Henok Ademtew
