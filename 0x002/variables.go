@@ -15,6 +15,7 @@ var (
 
 x = 4
 y = 6 //declaration of multiple variables
+
 )
  
 seven := 7 // easy shorthand declaration of variables
