@@ -9,4 +9,4 @@ You can find Go Lang examples, exercises, and codes to the my initial plan is to
 <img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="385px" align="center">
 
 # Author
-> Henok Ademtew
+> Henok B Ademtew
