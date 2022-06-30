@@ -5,8 +5,6 @@ import "fmt"
 	- A simple program to add two numbers
 	- Learn how to declare variables
 	- Learn how to take an input
-
-
 */
 
 func main() {
