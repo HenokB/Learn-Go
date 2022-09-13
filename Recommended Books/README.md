@@ -2,3 +2,4 @@
 1. Go Programming Language, The (Addison-Wesley Professional Computing Series)
 2. [The little Go book](https://www.openmymind.net/The-Little-Go-Book/)
 3. [An introduction to programming in Go](http://www.golang-book.com/)
+4. [Learn Go with tests](https://quii.gitbook.io/learn-go-with-tests/)
